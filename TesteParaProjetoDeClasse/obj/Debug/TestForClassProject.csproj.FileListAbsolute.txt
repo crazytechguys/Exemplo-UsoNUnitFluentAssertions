@@ -1,0 +1,12 @@
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\TestForClassProject.dll
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\TestForClassProject.pdb
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\ClassProject.dll
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\FluentAssertions.dll
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\nunit.framework.dll
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\ClassProject.pdb
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\FluentAssertions.pdb
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\FluentAssertions.xml
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\bin\Debug\nunit.framework.xml
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\obj\Debug\TestForClassProject.csprojResolveAssemblyReference.cache
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\obj\Debug\TestForClassProject.dll
+\\psf\Home\Codigos\LittleBitOfNunit\TestForClassProject\obj\Debug\TestForClassProject.pdb

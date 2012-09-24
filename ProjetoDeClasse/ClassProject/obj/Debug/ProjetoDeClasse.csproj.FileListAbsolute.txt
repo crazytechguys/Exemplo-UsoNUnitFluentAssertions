@@ -1,0 +1,10 @@
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\bin\Debug\ProjetoDeClasse.dll
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\bin\Debug\ProjetoDeClasse.pdb
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\obj\Debug\ProjetoDeClasse.dll
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\obj\Debug\ProjetoDeClasse.pdb
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\obj\Debug\ProjetoDeClasse.csprojResolveAssemblyReference.cache
+W:\LittleBitOfNunit\ProjetoDeClasse\ClassProject\bin\Debug\ProjetoDeClasse.dll
+W:\LittleBitOfNunit\ProjetoDeClasse\ClassProject\bin\Debug\ProjetoDeClasse.pdb
+W:\LittleBitOfNunit\ProjetoDeClasse\ClassProject\obj\Debug\ProjetoDeClasse.csprojResolveAssemblyReference.cache
+W:\LittleBitOfNunit\ProjetoDeClasse\ClassProject\obj\Debug\ProjetoDeClasse.dll
+W:\LittleBitOfNunit\ProjetoDeClasse\ClassProject\obj\Debug\ProjetoDeClasse.pdb

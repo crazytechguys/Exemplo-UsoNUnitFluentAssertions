@@ -1,0 +1,5 @@
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\bin\Debug\ClassProject.dll
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\bin\Debug\ClassProject.pdb
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\obj\Debug\ClassProject.csprojResolveAssemblyReference.cache
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\obj\Debug\ClassProject.dll
+\\psf\Home\Codigos\LittleBitOfNunit\ClassProject\ClassProject\obj\Debug\ClassProject.pdb
